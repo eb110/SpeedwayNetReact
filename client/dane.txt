@@ -1,0 +1,12 @@
+http://www.speedwayw.pl/dmp/1993/wrby_1.htm
+
+
+ const mf = async() => {
+    const response = await axios.request({
+      method: 'GET',
+      url: 'http://www.speedwayw.pl/dmp/1993/wrby_1.htm',
+      responseType: 'arraybuffer',
+      responseEncoding: 'binary',
+    })
+    console.log('res: ',response)
+  }
