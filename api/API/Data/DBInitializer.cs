@@ -33,6 +33,14 @@ namespace API.Data
                 context.SpeedwayRiderTotalRecords.Add(record);
             }
 
+            context.SpeedwayRider.Add(new SpeedwayRider
+            {
+                Name = "Tomasz",
+                Surname = "Gollob",
+                BirthDate = new DateTime(1971, 4, 11),
+                Nationality = "Poland"
+            });
+
             context.SaveChanges();
         }
     }

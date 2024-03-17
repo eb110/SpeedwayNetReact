@@ -7,17 +7,18 @@ var builder = WebApplication.CreateBuilder(args);
 
 DotEnv.Load();
 var envVars = DotEnv.Read();
-Console.WriteLine("dupa " + envVars["Default"]);
+
+builder.Services.AddDbContext<SpeedwayContext>(opt =>
+{
+    // opt.UseMySQL(builder.Configuration.GetConnectionString("Default")!);
+    opt.UseMySQL(envVars["Default"]);
+});
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<SpeedwayContext>(opt =>
-{
-   // opt.UseMySQL(builder.Configuration.GetConnectionString("Default")!);
-    opt.UseMySQL(envVars["Default"]);
-});
+builder.Services.AddCors();
 
 var app = builder.Build();
 
@@ -27,6 +28,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors(opt => {
+    opt.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000");
+});
 
 app.UseAuthorization();
 

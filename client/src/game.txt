@@ -1,0 +1,47 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-2">
+<meta name="Author" content="Roman Lach">
+<meta name="GENERATOR" content="EditPad 3.4.0">
+<title>Wroc³aw - Bydgoszcz</title>
+<META HTTP-EQUIV="Cache-Control" CONTENT="no-store, no-cache, must-revalidate"> 
+<META HTTP-EQUIV="Cache-Control" CONTENT="post-check=0, pre-check=0">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+</head>
+
+<BODY ONCONTEXTMENU="return false">
+<BODY ONSELECTSTART="return false" ONSELECT="return false" ONCOPY="return false">
+<BODY ONBEFOREPRINT="document.body.style.visibility = 'hidden'; alert('Wydruk jest niedostêpny!')"ONAFTERPRINT="document.body.style.visibility = 'visible'">
+<BODY ONDRAGSTART="return false" ONDRAG="return false">
+<body bgcolor="#C0C0C0" text="#000000" link="#0000EE"
+vlink="#FF0000" alink="#FF0000">
+
+<blockquote>
+    <p><strong><tt>
+    11 RUNDA DMP 1993: 29-7-1993</tt></strong><tt><br><br>
+    1 E.SKUPIEÑ          7+2  (1*,1*,0,3,2)        66:90<br>
+    2 J.GOLLOB           6    (2,2,1,1,0)          65:90<br>
+    3 S.ERMOLENKO        13   (3,2,3,2,3)          66:20<br>
+    4 R.SZNAJDER         1    (w,w,-,-,1)          67:30<br>
+    5 T.GOLLOB           15   (3,3,3,3,3)          66:30<br>
+    6 R.BONIN            0    (0,0,0)              66:20<br>
+    7 M.KÊPA             1    (1,w,0,w)            67:80<br>
+    8 L.SOKO£OWSKI       ns                        66:30<br>
+                                                   68:30<br>
+    9 T.KNUDSEN          12   (3,2,2,3,2)          69:60<br>
+    10 K.ZIELIÑSKI       1+1  (0,1*,0)             67:10<br>
+    11 W.ZA£USKI         3+1  (2,0,1*,0,w)         67:70<br>
+    12 Z.LECH            8+1  (1,3,2,1,1*)         67:80<br>
+    13 P.BARON           8+1  (1*,1,3,1,2)         67:70<br>
+    14 D.¦LED¬           12+1 (2,3,2*,2,3)         68:00<br>
+    15 H.PIEKARSKI       3    (2,1)<br>
+    16 K.JANKOWSKI       ns<br><br>
+    Sêdzia: LECHOS£AW BARTNICKI                 <a href="../../schem/dz15b_90_93.htm""><tt>tabela biegów</tt></a><br>
+    ZMIANY:<br>
+    7-VIII,IX,X,XIII 15-X,XIII</tt></p>
+    <p><tt> </tt><a href="../../pl_1993.htm#dmp"><font size="4"><tt>Powrót</tt></font></a></p>
+</blockquote>
+</body>
+</html>

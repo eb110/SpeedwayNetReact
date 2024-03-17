@@ -11,5 +11,6 @@ namespace API.Data
         }
 
         public DbSet<SpeedwayRiderTotalRecord> SpeedwayRiderTotalRecords { get; set; }
+        public DbSet<SpeedwayRider> SpeedwayRider { get; set; }
     }
 }
